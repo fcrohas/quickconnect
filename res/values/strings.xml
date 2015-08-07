@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, QuickConnectActivity!</string>
+    <string name="app_name">QuickConnect</string>
+    <string name="networkCapabilities">Available network capabilities</string>
+</resources>
